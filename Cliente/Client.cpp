@@ -23,7 +23,6 @@ int main()
 	int recv_len = 0;
 	
 	// Variables para búfer de envío y recepción
-	//char send_buf[100];
 	char recv_buf[100];
 	
 	// Variables para el socket 
